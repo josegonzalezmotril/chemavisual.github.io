@@ -27,3 +27,15 @@ Junto a este censo, he sacado del catálogo abierto  de datos del Ayto. de Madri
 
 En él podemos ver cosas interesantes. Por ejemplo, en Ciudad lineal (zona centro) encontramos que sólo hay una zona canina para un censo amplio de perros.
 
+![zonas centro](https://github.com/josegonzalezmotril/josegonzalezmotril.github.io/blob/master/images/zonascaninas%20centro.jpg?raw=true)
+
+Sin embargo, hay otras donde se concentran varias zonas caninas para censos menores. Moratalaz es un ejemplo de esto:
+
+![zonas moratalaz](https://github.com/josegonzalezmotril/josegonzalezmotril.github.io/blob/master/images/zonascaninas%20moratalaz.jpg?raw=true)
+
+Curiosamente en este misma zona del  mapa podemos ver lo que comentaba al principio del post. Si paseas por el parque Cuña Verde de O'donell no vas a encontrar ninguna papelera con bolsa. Tienes que salir del parque para encontrarlas.
+
+Madrid ha hecho un trabajo estupendo con la distribución de bolsitas y las papeleras, Además dispone de abundantes zonas donde pasar un rato agradable junto a tu mascota. Pero quizá poniendo alguna zona más por el centro, en las medianas de las avenidas, plazas deterioradas , etc., se podría rematar este buen trabajo.
+
+Bueno, ¿qué os parece el mapa?,  ¿encontráis algo que no he visto? Por favor comentadlo y si os ha gustado compartidlo. Gracias.
+
