@@ -17,3 +17,13 @@ Y así se me encendió la bombilla para este estudio. ¿Cómo están distribuida
 
 ### El censo de perros:
 
+![censo de perros](https://github.com/josegonzalezmotril/josegonzalezmotril.github.io/blob/master/images/censoperros.png?raw=true)
+
+#### Madrid tiene más 280.000 perros censados
+
+Junto a este censo, he sacado del catálogo abierto  de datos del Ayto. de Madrid (datos.madrid.es) , la ubicación de las zonas caninas y de las papeleras con bolsitas en un radio de 2 minutos a pie de estas. Y las he representado en un mapa de CARTO:
+
+[mapa de CARTO donde ver las zonas caninas y las papeleras en ellas](https://josemotril40.carto.com/builder/e37ff413-5ac7-4049-a79a-a8368cbb081a/embed)
+
+En él podemos ver cosas interesantes. Por ejemplo, en Ciudad lineal (zona centro) encontramos que sólo hay una zona canina para un censo amplio de perros.
+
