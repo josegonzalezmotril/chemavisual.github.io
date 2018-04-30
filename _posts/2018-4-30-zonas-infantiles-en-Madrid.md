@@ -64,7 +64,7 @@ ggmap(mapa.madrid2,extent="device")+
   
    ![poblacion](https://github.com/josegonzalezmotril/josegonzalezmotril.github.io/blob/master/images/poblacioninfaltil.png?raw=true)
    
-   Efectivamente vemos que a zona centro de Madrid es la que menos población infantil tiene y por ello menos zonas infantiles hay. Pero en zonas como Villa de Vallecas a pesar de tener una población infantil alta, no hay una suficiente concentración de zonas de juego.
+   Efectivamente vemos que a zona centro de Madrid es de las que menos población infantil tiene y por ello menos zonas infantiles hay. Pero en zonas como Villa de Vallecas a pesar de tener una población infantil alta, no hay una suficiente concentración de zonas de juego.
    
    En el primer post de mi blog comentaba la falta de zonas caninas en el centro. Hoy vemos que tampoco hay demasiadas zonas de juego. Obviamente es una zona donde se concentran oficinas y sedes de servicios públicos. Pero creo que si se pusiesen más zonas de esparcimiento podría convertirse en una zona muy grata para pasear con los niños y/o el perro durante el fin de semana y festivos, cuando esa zona queda más muerta.
   
