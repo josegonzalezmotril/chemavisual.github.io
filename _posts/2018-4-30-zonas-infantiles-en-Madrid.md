@@ -69,5 +69,8 @@ ggmap(mapa.madrid2,extent="device")+
    En el primer post de mi blog comentaba la falta de zonas caninas en el centro. Hoy vemos que tampoco hay demasiadas zonas de juego. Obviamente es una zona donde se concentran oficinas y sedes de servicios públicos. Pero creo que si se pusiesen más zonas de esparcimiento podría convertirse en una zona muy grata para pasear con los niños y/o el perro durante el fin de semana y festivos, cuando esa zona queda más muerta.
   
   ¡Espero que os haya gustado!
+  Chema González
+  
+  (Fuente de datos: Ayto. de Madrid)
 
 
