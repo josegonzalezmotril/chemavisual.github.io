@@ -2,7 +2,7 @@
 layout: post
 title: Zonas infantiles en Madrid
 ---
-#### Visualización de las zonas infantiles en el mapa de Madrid
+## Visualización de las zonas infantiles en el mapa de Madrid
 
 ![columpios](https://github.com/josegonzalezmotril/josegonzalezmotril.github.io/blob/master/images/infantil.jpg?raw=true)
 
@@ -56,29 +56,18 @@ ggmap(mapa.madrid2,extent="device")+
   ![mapacalor](https://github.com/josegonzalezmotril/josegonzalezmotril.github.io/blob/master/images/mapa%20de%20calor%20zonas%20infantiles.jpeg?raw=true)
   
   
-  Ahora sí lo vemos más claro. Visualizamos las zonas donde se concentran las zonas infantiles. Podemos ver que los barrios periféricos concentran mas zonas que el centro de Madrid, en el que vemos un hueco clarísimo. ¿Pero corresponde con la población infantil de Madrid?
+  Ahora sí lo vemos más claro. Visualizamos las zonas donde se concentran las zonas infantiles. Podemos ver que los barrios periféricos concentran más zonas que el centro de Madrid, en el que vemos un hueco clarísimo. ¿Pero corresponde con la población infantil de Madrid?
   
-  ### habitantes de 0 a 14 años	
-## Barajas	8212
-## moratalaz	10771
-## entro	10888
-## vicálvaro	12977
-## retiro	14003
-## chamberi	14387
-## salamanca	15637
-## moncloa - aravaca	16225
-## tetuan	17590
-## chamartin	18674
-## arganzuela	18785
-## villa de vallecas	19409
-## usera	20364
-## villaverde	22745
-## San Blas - Canillejas	23537
-## ciudad lineal	26148
-## latina	27761
-## hortaleza	30004
-## puente de vallecas	30368
-## carabanchel	35024
-## fuencarral - el pardo	40398
+  
+  En este gráfico, creado en QLIK, vemos la población infantil de 0 a años en la ciudad dividida por distritos:
+  
+  
+   ![poblacion](https://github.com/josegonzalezmotril/josegonzalezmotril.github.io/blob/master/images/poblacioninfaltil.png?raw=true)
+   
+   Efectivamente vemos que a zona centro de Madrid es la que menos población infantil tiene y por ello menos zonas infantiles hay. Pero en zonas como Villa de Vallecas a pesar de tener una población infantil alta, no hay una suficiente concentración de zonas de juego.
+   
+   En el primer post de mi blog comentaba la falta de zonas caninas en el centro. Hoy vemos que tampoco hay demasiadas zonas de juego. Obviamente es una zona donde se concentran oficinas y sedes de servicios públicos. Pero creo que si se pusiesen más zonas de esparcimiento podría convertirse en una zona muy grata para pasear con los niños y/o el perro durante el fin de semana y festivos, cuando esa zona queda más muerta.
+  
+  ¡Espero que os haya gustado!
 
 
