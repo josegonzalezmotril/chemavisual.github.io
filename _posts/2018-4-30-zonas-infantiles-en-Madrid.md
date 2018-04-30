@@ -56,7 +56,7 @@ ggmap(mapa.madrid2,extent="device")+
   ![mapacalor](https://github.com/josegonzalezmotril/josegonzalezmotril.github.io/blob/master/images/mapa%20de%20calor%20zonas%20infantiles.jpeg?raw=true)
   
   
-  Ahora sí lo vemos más claro. Visualizamos las areas donde se concentran las zonas infantiles. Podemos ver que los barrios periféricos concentran más zonas que el centro de Madrid, en el que vemos un hueco clarísimo. ¿Pero corresponde con la población infantil de Madrid?
+  Ahora sí lo vemos más claro. Visualizamos las áreas donde se concentran las zonas infantiles. Podemos ver que los barrios periféricos concentran más zonas que el centro de Madrid, en el que vemos un hueco clarísimo. ¿Pero corresponde con la población infantil de Madrid?
   
   
   En este gráfico, creado en QLIK, vemos la población infantil de 0 a 14 años en la ciudad dividida por distritos:
