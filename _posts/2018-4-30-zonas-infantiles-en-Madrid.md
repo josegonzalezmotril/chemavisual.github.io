@@ -8,7 +8,7 @@ title: Zonas infantiles en Madrid
 
 Hoy voy a continuar con mapas de la ciudad de Madrid, donde vamos a visualizar datos sacados del Ayuntamiento. En este caso las zonas infantiles de las que dispone la capital.
 
-La herramienta utilizada para visualizar los datos ha sido R. Parece complicado, pero con unas pocas sentencias se pueden hacer visualizaciones muy chulas. vamos a por la primera:
+La herramienta utilizada para visualizar los datos ha sido R. Parece complicado, pero con unas pocas sentencias se pueden hacer visualizaciones muy chulas. Vamos a por la primera:
 
 ```r
 #instalamos los paquetes de mapas de google para R
