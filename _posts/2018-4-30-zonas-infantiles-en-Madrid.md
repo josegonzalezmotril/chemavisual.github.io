@@ -2,7 +2,7 @@
 layout: post
 title: Zonas infantiles en Madrid
 ---
-## Visualización de las zonas infantiles en el mapa de Madrid
+#### Visualización de las zonas infantiles en el mapa de Madrid
 
 ![columpios](https://github.com/josegonzalezmotril/josegonzalezmotril.github.io/blob/master/images/infantil.jpg?raw=true)
 
